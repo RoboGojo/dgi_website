@@ -22,7 +22,7 @@ In VS Code, press <kbd>Ctrl</kbd> + <kbd>J</kbd> to open the terminal.
 
 In the terminal, run the following:
 ```bash
-git clone <repository-url>
+git clone https://github.com/RoboGojo/dgi_website
 cd dgi_website
 ```
 
